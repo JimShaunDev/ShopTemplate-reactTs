@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PaNswyHSVBB4gbvRalYQyNOI3G/miuoXE0N+5Ck+sR8XEIRo8BuXUcrTjFButgElLKMhfXgpRDbzZl9mngWA0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shaunj\\source\\repos\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shaunj\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.19\\microsoft.aspnetcore.spaservices.extensions.6.0.19.nupkg.sha512",
+    "C:\\Users\\shaunj\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\shaunj\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\shaunj\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\shaunj\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\shaunj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

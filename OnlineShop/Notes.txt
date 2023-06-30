@@ -1,0 +1,8 @@
+https://vite-dotnet.techgems.net/guide/getting-started
+
+https://blog.nrwl.io/react-vite-and-typescript-get-started-in-under-2-minutes-3bd5cd836175#6026
+
+Used this to build project:
+https://blog.codeinside.eu/2023/02/11/aspnet-core-react-with-vitejs/
+
+
